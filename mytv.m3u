@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="神机妙算刘伯温" tvg-name="神机妙算刘伯温" tvg-logo="" group-title="闽南语电视剧",神机妙算刘伯温
-rtmp://43.243.129.207:1935/live/movie
+rtmp://43.243.129.207:1935/live/shenjimiaosuanliubowen
 #EXTINF:-1 tvg-id="布袋和尚" tvg-name="布袋和尚" tvg-logo="" group-title="闽南语电视剧",布袋和尚
 rtmp://43.243.129.207:1935/live/budaiheshang
 #EXTINF:-1 tvg-id="QZTV-1" tvg-name="QZTV-1" tvg-logo="" group-title="泉州电视台",泉州新闻综合
